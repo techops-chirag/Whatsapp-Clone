@@ -85,7 +85,7 @@ const DetailsPage = () => {
     return (
         <>
             <div className="containerLogin">
-                <img src={WhatsappLogo} className="Logo" />
+                <img src={WhatsappLogo} className="Logo" alt="error"/>
                 <div className="titelLogin">
                     Enter Your Details Below
                 </div>

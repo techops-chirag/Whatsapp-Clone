@@ -66,7 +66,7 @@ class LoginPage extends React.Component {
     render() {
         return (
             <div className="containerLogin">
-                <img src={WhatsappLogo} className="Logo" />
+                <img src={WhatsappLogo} className="Logo" alt="error" />
                 <div className="titelLogin">
                     Login to Whatsapp
                 </div>
